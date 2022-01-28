@@ -1,0 +1,49 @@
+package br.com.dio;
+
+import br.com.dio.model.Gato;
+
+public class PrimeiroPrograma {
+
+	public static void main(String[] args) {
+	
+		
+		Gato gato = new Gato();
+		Livros livros = new Livros();
+		
+		System.out.println(Gato);
+		System.out.println(Livros);
+		
+		
+		/*int a=10;
+		int b=10;
+				
+		
+		System.out.println("HELLO WORLD!!!" + (a+b)); */
+		
+	
+		
+	}
+
+}
+
+	class Livros {
+		
+			private String nome;
+			private String npag;
+		
+		
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
